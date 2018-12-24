@@ -1,2 +1,2 @@
 # fantasy-calendar
-This is a html/cs/js calendar for practice
+This is a html/css/js calendar for practice
